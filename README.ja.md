@@ -2,6 +2,10 @@
 
 > 同じウェブページを閲覧している人とチャットしよう。あなたは一人でブラウジングしていない。
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20ウェブストア-今すぐ試す-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/synkie-web-chat-you're-ne/aaeoljpeoalinfngkkdenhnehochdpad)
+
+> 🚀 **[Chrome ウェブストアでライブ版を試す →](https://chromewebstore.google.com/detail/synkie-web-chat-you're-ne/aaeoljpeoalinfngkkdenhnehochdpad)**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)

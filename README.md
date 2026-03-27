@@ -2,6 +2,10 @@
 
 > Chat with people browsing the same webpage. You're never browsing alone.
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20Web%20Store-Try%20it%20live-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/synkie-web-chat-you're-ne/aaeoljpeoalinfngkkdenhnehochdpad)
+
+> 🚀 **[Try the live version on the Chrome Web Store →](https://chromewebstore.google.com/detail/synkie-web-chat-you're-ne/aaeoljpeoalinfngkkdenhnehochdpad)**
+
 English | [简体中文](./README.zh-CN.md) | [日本語](./README.ja.md)
 
 Open-source browser extension UI. This **local mode** version stores all data in the browser's `localStorage` — no backend, no accounts, no tracking.

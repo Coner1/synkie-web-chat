@@ -2,6 +2,10 @@
 
 > 与正在浏览同一网页的人聊天。你从不是一个人在浏览。
 
+[![Chrome Web Store](https://img.shields.io/badge/Chrome%20应用商店-立即体验-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/synkie-web-chat-you're-ne/aaeoljpeoalinfngkkdenhnehochdpad)
+
+> 🚀 **[前往 Chrome 应用商店体验完整版 →](https://chromewebstore.google.com/detail/synkie-web-chat-you're-ne/aaeoljpeoalinfngkkdenhnehochdpad)**
+
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
