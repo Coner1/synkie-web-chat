@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Root scope for extension */
+#synkie-chat-ext-root {
+    --primary-color: #07C160;
+    --bg: white;
+    --text: #111;
+    --border: #e5e5e5;
+    all: initial;
+    margin: 0;
+    padding: 0;
+
+    /* Stabilize rem size (important for extensions) */
+    font-size: 16px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    /* Smooth fonts */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+/* Safe box sizing */
+#synkie-chat-ext-root *,
+#synkie-chat-ext-root *::before,
+#synkie-chat-ext-root *::after {
+    box-sizing: border-box;
+}
+
+/* Buttons */
+#synkie-chat-ext-root button {
+    appearance: none;
+    background: inherit;
+    color: inherit;
+    border: none;
+    cursor: pointer;
+}
+
+#synkie-chat-ext-root button:disabled {
+    cursor: not-allowed;
+    opacity: 0.6;
+}
+
+/* Inputs */
+#synkie-chat-ext-root input,
+#synkie-chat-ext-root textarea,
+#synkie-chat-ext-root select {
+    font: inherit;
+    border: none;
+    outline: none;
+    box-shadow: none;
+}
+
+
+/* Animation */
+@keyframes synkie-slide-in-right {
+    from {
+        transform: translateX(100%);
+        opacity: 0;
+    }
+    to {
+        transform: translateX(0);
+        opacity: 1;
+    }
+}
+
+#synkie-chat-ext-root .animate-slide-in-right {
+    animation: synkie-slide-in-right 0.3s ease-out;
+}
+@keyframes synkie-comment-fade {
+    from {
+        opacity:0;
+        transform:translateY(6px);
+    }
+    to {
+        opacity:1;
+        transform:translateY(0);
+    }
+}

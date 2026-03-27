@@ -1,0 +1,8 @@
+node_modules/
+build/
+.plasmo/
+dist/
+*.local
+.env
+.DS_Store
+.idea
